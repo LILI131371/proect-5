@@ -965,14 +965,14 @@ ul, li, a {
 }
 
 .checkbox:checked + .empty {
-  background-image: url("images/form-circle.svg");
+  background-image: url("../images/form-circle.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 0.9375em;
 }
 
 .checkbox:checked + .checked {
-  background-image: url("images/form-circle.svg");
+  background-image: url("../images/form-circle.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 0.9375em;
@@ -1287,19 +1287,19 @@ justify-content: center;
 }
 
 .footer-bribbble {
-  background-image: url("images/001-dribbble.svg");
+  background-image: url("../images/001-dribbble.svg");
   width: 19px;
   height: 19px;
 }
 
 .footer-pinterest {
-  background-image: url("images/01-pinterest.svg");
+  background-image: url("../images/01-pinterest.svg");
   width: 19px;
   height: 19px;
 }
 
 .footer-tamblr {
-  background-image: url("images/003-tumblr.svg");
+  background-image: url("../images/003-tumblr.svg");
   width: 19px;
   height: 19px;
   margin: 0;
